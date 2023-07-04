@@ -5,11 +5,11 @@ import win32gui
 
 # Define the Dofus window titles
 dofus_windows = [
-    "Account1 - Dofus 2.67.11.17",
-    "Account2 - Dofus 2.67.11.17",
-    "Account3 - Dofus 2.67.11.17",
-    "Account4 - Dofus 2.67.11.17",
-    "Account5 - Dofus 2.67.11.17"
+    "Account1 - Dofus (version)",
+    "Account2 - Dofus (version)",
+    "Account3 - Dofus (version)",
+    "Account4 - Dofus (version)",
+    "Account5 - Dofus (version)"
 ]
 
 # Define the keyboard shortcuts for each account
